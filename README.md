@@ -24,6 +24,7 @@
 > Backend: [https://github.com/pacifier121/ChatOcean-backend/tree/preview]
 
 ### Sample video of project
-<video controls width="100%">
-    <source src="./screencast.webm" type="video/webm" >
-</video>
+[Click here to watch demo video](https://youtu.be/nsAT9Fd6M2M)
+
+### Sample images of project
+[Chat](https://github.com/pacifier121/chatocean/images/chat.png)
