@@ -36,3 +36,6 @@
 ![Chat](https://github.com/pacifier121/chatocean/blob/master/images/share_post.png)
 ![Chat](https://github.com/pacifier121/chatocean/blob/master/images/post_page.png)
 ![Chat](https://github.com/pacifier121/chatocean/blob/master/images/notifs.png)
+<br>
+
+*I hope you like my project*
