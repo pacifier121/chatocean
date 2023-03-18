@@ -27,4 +27,12 @@
 [Click here to watch demo video](https://youtu.be/nsAT9Fd6M2M)
 
 ### Sample images of project
-![Chat](https://github.com/pacifier121/chatocean/images/chat.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/login.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/edit_profile.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/profile.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/followers.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/edit_profile.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/create_post.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/share_post.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/post_page.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/notifs.png)
