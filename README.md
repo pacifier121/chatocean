@@ -31,11 +31,20 @@
 ![Chat](https://github.com/pacifier121/chatocean/blob/master/images/edit_profile.png)
 ![Chat](https://github.com/pacifier121/chatocean/blob/master/images/profile.png)
 ![Chat](https://github.com/pacifier121/chatocean/blob/master/images/followers.png)
-![Chat](https://github.com/pacifier121/chatocean/blob/master/images/edit_profile.png)
 ![Chat](https://github.com/pacifier121/chatocean/blob/master/images/create_post.png)
 ![Chat](https://github.com/pacifier121/chatocean/blob/master/images/share_post.png)
 ![Chat](https://github.com/pacifier121/chatocean/blob/master/images/post_page.png)
 ![Chat](https://github.com/pacifier121/chatocean/blob/master/images/notifs.png)
+
+### Sample images of project (on small devices like phone)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/small/login.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/small/home.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/small/profile.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/small/followings.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/small/chat.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/small/share.png)
+![Chat](https://github.com/pacifier121/chatocean/blob/master/images/small/notifs.png)
+
 <br>
 
 *I hope you like my project*
